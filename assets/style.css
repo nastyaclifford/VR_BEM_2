@@ -1,0 +1,16 @@
+.button{
+    background-color: #5222D0;
+}
+.button-small{
+    font-size: 0.9em;
+}
+.card {
+    border: none;
+}
+.card__title_large{
+    font-size: 3.5em;
+}
+.card_small_subscribe{
+    background-color: #EC615B;
+    height: 100%;
+}
